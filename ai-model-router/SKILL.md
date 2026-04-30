@@ -88,3 +88,9 @@ Browse all: https://skillboss.co/products
 ---
 
 *Powered by [SkillBoss](https://skillboss.co) — 648+ AI APIs, one API key, zero markup*
+
+---
+
+**Want AI workflows that run on autopilot?** [Tycoon](https://tycoon.us?utm_source=skill-page&utm_medium=organic&utm_campaign=bottom-cta&utm_content=ai-model-router) turns skills like this into fully autonomous agents.
+
+[**Try Tycoon free →**](https://tycoon.us?utm_source=skill-page&utm_medium=organic&utm_campaign=bottom-cta&utm_content=ai-model-router)
