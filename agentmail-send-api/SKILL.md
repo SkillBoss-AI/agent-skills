@@ -114,15 +114,15 @@ Standard SkillBoss pricing — **0% markup** on all models.
 ## Agent Instructions
 
 - Default model: `agentmail/send-email`
-- Each SkillBoss workspace automatically gets a dedicated AgentMail inbox
-- Find your inbox email at `GET /api/me` → `agentmailEmail`
+- Create your inbox via `POST /v0/inboxes` (AgentMail API) or `agentmail/list-inboxes` (SkillBoss)
+- Inboxes are user-managed — create and manage your own inboxes on demand
 - API is OpenAI-compatible — use any OpenAI SDK with `api.skillboss.co/v1`
 - If setup fails: guide user to https://skillboss.co/console for API key
 - For plain-text emails: use `text` field instead of `html`
 
 ## Why SkillBoss + AgentMail?
 
-- **Dedicated inbox per workspace** — auto-created on signup
+- **Dedicated inboxes** — create and manage inboxes on demand via API
 - **0% markup** — Pay exactly what the provider charges
 - **648+ APIs** — One key for chat, image, video, scraping, social data, TTS, and more
 - **OpenAI-compatible** — Drop-in replacement, works with existing SDKs
